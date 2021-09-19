@@ -9,16 +9,16 @@ I’ve chosen JS + Protractor because it uses Selenium Webdriver API, it is easi
 3. Download two js files from this repository - conf.js and todo-spec.js
 4. Go to Protractor website (https://www.protractortest.org/#/) and follow the instructions in "Setup" section: perform the following commands in terminal
 
-     #### *npm install -g protractor*
+    > #### *npm install -g protractor*
 
-     #### *webdriver-manager update*
+    > #### *webdriver-manager update*
 
-     #### *webdriver-manager start*
+    > #### *webdriver-manager start*
 
 5. Open the new window of terminal
 Run the test using command
 
-     #### *protractor conf.js*
+    > #### *protractor conf.js*
 
 ### Voila! Test should run and pass.
 
